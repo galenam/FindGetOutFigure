@@ -1,0 +1,16 @@
+D:\My\dev\UnitTestProjectFigures\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\My\dev\UnitTestProjectFigures\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\My\dev\UnitTestProjectFigures\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\My\dev\UnitTestProjectFigures\bin\Debug\netcoreapp1.1\UnitTestProjectFigures.deps.json
+D:\My\dev\UnitTestProjectFigures\bin\Debug\netcoreapp1.1\UnitTestProjectFigures.runtimeconfig.json
+D:\My\dev\UnitTestProjectFigures\bin\Debug\netcoreapp1.1\UnitTestProjectFigures.runtimeconfig.dev.json
+D:\My\dev\UnitTestProjectFigures\bin\Debug\netcoreapp1.1\UnitTestProjectFigures.dll
+D:\My\dev\UnitTestProjectFigures\bin\Debug\netcoreapp1.1\UnitTestProjectFigures.pdb
+D:\My\dev\UnitTestProjectFigures\bin\Debug\netcoreapp1.1\FindGetOutFigure.dll
+D:\My\dev\UnitTestProjectFigures\bin\Debug\netcoreapp1.1\FindGetOutFigure.pdb
+D:\My\dev\UnitTestProjectFigures\obj\Debug\netcoreapp1.1\UnitTestProjectFigures.csprojResolveAssemblyReference.cache
+D:\My\dev\UnitTestProjectFigures\obj\Debug\netcoreapp1.1\UnitTestProjectFigures.AssemblyInfo.cs
+D:\My\dev\UnitTestProjectFigures\obj\Debug\netcoreapp1.1\UnitTestProjectFigures.dll
+D:\My\dev\UnitTestProjectFigures\obj\Debug\netcoreapp1.1\UnitTestProjectFigures.pdb
+D:\My\dev\UnitTestProjectFigures\obj\Debug\netcoreapp1.1\UnitTestProjectFigures.csproj.CoreCompileInputs.cache
+D:\My\dev\UnitTestProjectFigures\obj\Debug\netcoreapp1.1\UnitTestProjectFigures.AssemblyInfoInputs.cache
